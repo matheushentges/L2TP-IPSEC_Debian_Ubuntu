@@ -1,6 +1,6 @@
 #!/bin/bash
-# Requirements
 # debian/ubuntu
+#Licence: creative commons
 
 apt-get -y update
 apt-get -y install strongswan xl2tpd libstrongswan-standard-plugins libstrongswan-extra-plugins
